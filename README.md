@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### config remote git hub
+```
+git remote add origin https://github.com/lis29/testsupermall.git
+git push -u origin master
+```
