@@ -24,7 +24,7 @@ export default {
   right: 0px;
   background-color: #f6f6f6;
   height: 49px;
-
+  z-index: 999;
   box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
 }
 </style>
